@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Server Rise Organize - 官方博客</title>
+  <title>ArknCrafts - 官方更新日志</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://www.minecraft-cn.net/</id>
   
   <author>
-    <name>Server Rise Organize Minecraft服务器援助组织</name>
+    <name>NekokeCore</name>
     
   </author>
   
